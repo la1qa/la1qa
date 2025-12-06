@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I'm a final-year student pursuing my Bachelor's in Computational Mathematics and Data Analytics at Universitat Autònoma de Barcelona (UAB). 
 
-I've recently created this github as newly official page. I will be slowly updating it with my previous and future projects. Stay tuned!
+This is my new official GitHub page, where I’ll be gradually showcasing my past and future projects. Stay tuned! 🚀
 
 ### **Let's Connect!**
 
