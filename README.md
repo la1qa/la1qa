@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I'm a final-year student pursuing my Bachelor's in Computational Mathematics and Data Analytics at Universitat Autònoma de Barcelona (UAB). 
 
+I've recently created this github as newly official page. I will be slowly updating it with my previous and future projects. Stay tuned!
+
 ### **Let's Connect!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/laia-querol-alturo/)
