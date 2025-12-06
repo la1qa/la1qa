@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello there, I'm Laia! 👋
 
 <!--
 **la1qa/la1qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+📍 Barcelona, Catalonia, Spain
+
+Welcome to my GitHub profile! I'm a final-year student pursuing my Bachelor's in Computational Mathematics and Data Analytics at Autonomous University of Barcelona (UAB). 
+
+### **Let's Connect!**
+[LinkedIn](www.linkedin.com/in/laia-querol-alturo) 
+
+<!--
+## **GitHub Stats** 
+[![la1qa's GitHub stats](https://github-readme-stats.vercel.app/api?username=la1qa)](https://github.com/la1qa/github-readme-stats)
 -->
