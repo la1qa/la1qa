@@ -15,18 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Your Name];This+is..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
-</div>
-
 📍 Barcelona, Catalonia, Spain
 
 Welcome to my GitHub profile! I'm a final-year student pursuing my Bachelor's in Computational Mathematics and Data Analytics at Autonomous University of Barcelona (UAB). 
 
 ### **Let's Connect!**
-[LinkedIn](www.linkedin.com/in/laia-querol-alturo) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/laia-querol-alturo/)
+
+<div>
+    <img src="https://raw.githubusercontent.com/la1qa/la1qa/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 
 <!--
 ## **GitHub Stats** 
