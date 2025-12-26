@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📍 Barcelona, Catalonia, Spain
-
 Welcome to my GitHub profile! I'm a final-year student pursuing my Bachelor's in Computational Mathematics and Data Analytics at Universitat Autònoma de Barcelona (UAB). 
 
 This is my new official page, where I’ll be gradually showcasing my past and future projects. Looking forward to feeding the snake :) Stay tuned! 🚀
